@@ -3,7 +3,7 @@ MoodSync-Your Emotion-Driven Spotify Player :musical_note: :sparkles:
 </h1>
 
 
-[![MoodSync]](https://drive.google.com/file/d/1TwN6n_d47CdjXFaw4H2mvD02gCp0syW8/view?usp=drivesdk)
+![MoodSync](https://drive.google.com/file/d/1TwN6n_d47CdjXFaw4H2mvD02gCp0syW8/view?usp=drivesdk)
 
 
 
