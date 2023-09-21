@@ -3,7 +3,7 @@ MoodSync-Your Emotion-Driven Spotify Player :musical_note: :sparkles:
 </h1>
 
 <!--[Project Logo](path_to_logo.png) (Optional: Include a logo or relevant image for your project)-->
-![MoodSync](https://github.com/Prajjwal-Chauhan/Sentisonics_Your-Emotion-Driven-Spotify-Player/assets/83890311/f8791afe-9d76-45a0-a581-d3b0c0602500)
+![MoodSync](https://drive.google.com/file/d/1TwN6n_d47CdjXFaw4H2mvD02gCp0syW8/view?usp=drivesdk)
 
 
 ## :muscle: Introduction
