@@ -2,8 +2,18 @@
 MoodSync-Your Emotion-Driven Spotify Player :musical_note: :sparkles:
 </h1>
 
-<!--[Project Logo](path_to_logo.png) (Optional: Include a logo or relevant image for your project)-->
-![MoodSync](https://drive.google.com/file/d/1TwN6n_d47CdjXFaw4H2mvD02gCp0syW8/view?usp=drivesdk)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display Image</title>
+</head>
+<body>
+    <img src="https://drive.google.com/uc?id=1TwN6n_d47CdjXFaw4H2mvD02gCp0syW8" alt="Image">
+</body>
+</html>
+
 
 
 ## :muscle: Introduction
