@@ -41,17 +41,17 @@ Getting started with Sentisonics is a breeze! Simply follow these steps:
 
 ## :key: Configuration
 
-Before you start using Sentisonics, make sure to set up your Spotify API credentials. To do this, you'll need to create a Spotify Developer account and create a new project in the Spotify Developer Dashboard. Once you have your account and project set up, obtain the following credentials:
+Before you start using MoodSync, make sure to set up your Spotify API credentials. To do this, you'll need to create a Spotify Developer account and create a new project in the Spotify Developer Dashboard. Once you have your account and project set up, obtain the following credentials:
 
 - **Username**: Your Spotify username, which will be used to access your playlists and listen history.
 - **Client ID**: This unique identifier is required to authenticate your requests to the Spotify API.
 - **Client Secret**: A secret key associated with your Client ID for secure authorization.
 
-Once you have obtained these credentials from the Spotify Developer Dashboard, update the `.ipynb` file in the Sentisonics project under `Spotify setup and integration` section with your credentials. This will enable Sentisonics to access your Spotify account and personalize the music recommendations based on your preferences.
+Once you have obtained these credentials from the Spotify Developer Dashboard, update the `.ipynb` file in the Sentisonics project under `Spotify setup and integration` section with your credentials. This will enable MoodSync to access your Spotify account and personalize the music recommendations based on your preferences.
 
 ## :musical_score: Let the Emotions Unleash!
 
-With your Spotify API credentials all set, you are now ready to experience the enchanting world of Sentisonics! :tada: Launch the application, let the camera capture your emotions, and immerse yourself in a curated musical journey that resonates with your feelings. Whether you're feeling pumped up, reflective, or anything in between, Sentisonics will always have the perfect playlist ready for you. :headphones: Enjoy the music that mirrors your soul! :sparkles:
+With your Spotify API credentials all set, you are now ready to experience the enchanting world of Sentisonics! :tada: Launch the application, let the camera capture your emotions, and immerse yourself in a curated musical journey that resonates with your feelings. Whether you're feeling pumped up, reflective, or anything in between, MoodSync will always have the perfect playlist ready for you. :headphones: Enjoy the music that mirrors your soul! :sparkles:
 
 ##: Use your headphones for better quality of music
 
